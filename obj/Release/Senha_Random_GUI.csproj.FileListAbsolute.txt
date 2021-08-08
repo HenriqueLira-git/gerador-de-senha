@@ -1,0 +1,5 @@
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Release\Senha_Random_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Release\Senha_Random_GUI.MainForm.resources
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Release\Senha_Random_GUI.csproj.GenerateResource.Cache
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\bin\Release\Gerador de Senhas.exe
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Release\Gerador de Senhas.exe

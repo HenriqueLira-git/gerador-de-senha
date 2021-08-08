@@ -1,0 +1,7 @@
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\bin\Debug\Senha_Random_GUI.exe
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\bin\Debug\Senha_Random_GUI.pdb
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Debug\Senha_Random_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Debug\Senha_Random_GUI.MainForm.resources
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Debug\Senha_Random_GUI.csproj.GenerateResource.Cache
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Debug\Senha_Random_GUI.exe
+C:\Users\Luiz TEMP\Documents\SharpDevelop Projects\Senha_Random_GUI\Senha_Random_GUI\obj\Debug\Senha_Random_GUI.pdb
